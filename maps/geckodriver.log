@@ -1,0 +1,654 @@
+1630179921352	geckodriver	INFO	Listening on 127.0.0.1:65464
+1630179924652	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5amQFc"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630179934827	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5amQFc\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630179945620	Marionette	INFO	Listening on port 65472
+1630179946161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630180009747	Marionette	INFO	Stopped listening on port 65472
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630180019673	geckodriver	INFO	Listening on 127.0.0.1:49185
+1630180022846	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9eb8Zk"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630180026582	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9eb8Zk\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630180033593	Marionette	INFO	Listening on port 49194
+1630180033771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+1630180036777	Marionette	INFO	Stopped listening on port 49194
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630180064297	geckodriver	INFO	Listening on 127.0.0.1:49258
+1630180067219	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSeTUCA"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630180070368	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSeTUCA\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630180075394	Marionette	INFO	Listening on port 49266
+1630180075483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630180082697	Marionette	INFO	Stopped listening on port 49266
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630181243010	geckodriver	INFO	Listening on 127.0.0.1:49358
+1630181246099	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2rnBeh"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630181248765	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2rnBeh\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630181254126	Marionette	INFO	Listening on port 49366
+1630181254353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630181378035	Marionette	INFO	Stopped listening on port 49366
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630181381976	geckodriver	INFO	Listening on 127.0.0.1:49453
+1630181384987	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileiFU2PD"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630181387763	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileiFU2PD\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1630181394852	Marionette	INFO	Listening on port 49461
+1630181394933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.rs"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.rs"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630181628563	Marionette	INFO	Stopped listening on port 49461
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1630181632531	geckodriver	INFO	Listening on 127.0.0.1:52070
+1630181635528	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehZzArn"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630181637989	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilehZzArn\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630181644046	Marionette	INFO	Listening on port 52078
+1630181644384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3747:24\ndestroy@resource://devtools/client/framework/toolbox.js:3685:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+1630182232082	Marionette	INFO	Stopped listening on port 52078
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630182240965	geckodriver	INFO	Listening on 127.0.0.1:52167
+1630182244035	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYPh3Ck"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630182247964	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYPh3Ck\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630182255682	Marionette	INFO	Listening on port 52175
+1630182256182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630182343771	Marionette	INFO	Stopped listening on port 52175
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630182477686	geckodriver	INFO	Listening on 127.0.0.1:52239
+1630182480710	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSeoBTN"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630182481584	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSeoBTN\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1630182488968	Marionette	INFO	Listening on port 52247
+1630182489514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630182618409	Marionette	INFO	Stopped listening on port 52247
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 6256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630182864379	geckodriver	INFO	Listening on 127.0.0.1:57001
+1630182867428	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHv3zjb"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630182868276	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHv3zjb\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630182873300	Marionette	INFO	Listening on port 57009
+1630182873525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630183090975	Marionette	INFO	Stopped listening on port 57009
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 5728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+X1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilev3YfsK\\search.json.mozlz4", (void 0)))
+1630183036580	Marionette	INFO	Listening on port 57640
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183036932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9145: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9145: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630183061199	Marionette	INFO	Stopped listening on port 57640
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8060, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1630183348302	geckodriver	INFO	Listening on 127.0.0.1:57750
+1630183351262	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAwWsNV"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183354941	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAwWsNV\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183362525	Marionette	INFO	Listening on port 57758
+1630183362875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630183434714	Marionette	INFO	Stopped listening on port 57758
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630183694805	geckodriver	INFO	Listening on 127.0.0.1:51490
+1630183697902	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezmtGnt"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183699377	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezmtGnt\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1630183709697	Marionette	INFO	Listening on port 51498
+1630183710511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630183723103	Marionette	INFO	Stopped listening on port 51498
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630183855550	geckodriver	INFO	Listening on 127.0.0.1:51609
+1630183858590	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVZaBgf"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183859804	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVZaBgf\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183866132	Marionette	INFO	Listening on port 51617
+1630183866251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630183917997	Marionette	INFO	Stopped listening on port 51617
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630183921788	geckodriver	INFO	Listening on 127.0.0.1:62922
+1630183924835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilepo6MVK"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183925938	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilepo6MVK\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183933241	Marionette	INFO	Listening on port 62930
+1630183933694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630183950073	Marionette	INFO	Stopped listening on port 62930
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630183988973	geckodriver	INFO	Listening on 127.0.0.1:62988
+1630183992047	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8LFTaB"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183992752	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8LFTaB\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630183998714	Marionette	INFO	Listening on port 62996
+1630183999328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630184053661	Marionette	INFO	Stopped listening on port 62996
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630184135739	geckodriver	INFO	Listening on 127.0.0.1:63062
+1630184138790	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUG7MVH"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184139654	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUG7MVH\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184144930	Marionette	INFO	Listening on port 63070
+1630184145479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630184161847	Marionette	INFO	Stopped listening on port 63070
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630184328889	geckodriver	INFO	Listening on 127.0.0.1:63128
+1630184331938	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebE3Lfv"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184332691	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebE3Lfv\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184337773	Marionette	INFO	Listening on port 63136
+1630184338159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630184414679	Marionette	INFO	Stopped listening on port 63136
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630184420649	geckodriver	INFO	Listening on 127.0.0.1:63203
+1630184423716	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAtzJb6"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184424686	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAtzJb6\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184430416	Marionette	INFO	Listening on port 63211
+1630184430940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630184447047	Marionette	INFO	Stopped listening on port 63211
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1630184926748	geckodriver	INFO	Listening on 127.0.0.1:63278
+1630184929803	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIJjwLN"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184931748	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIJjwLN\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184936691	Marionette	INFO	Listening on port 63286
+1630184937053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630184983077	Marionette	INFO	Stopped listening on port 63286
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630184986877	geckodriver	INFO	Listening on 127.0.0.1:63343
+1630184989941	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewGuSrZ"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184991190	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewGuSrZ\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630184996629	Marionette	INFO	Listening on port 63351
+1630184997076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630185010245	Marionette	INFO	Stopped listening on port 63351
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630185125810	geckodriver	INFO	Listening on 127.0.0.1:63420
+1630185128824	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGENKj1"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630185130522	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGENKj1\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630185136226	Marionette	INFO	Listening on port 63428
+1630185136535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1630185183244	Marionette	INFO	Stopped listening on port 63428
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630185194398	geckodriver	INFO	Listening on 127.0.0.1:63502
+1630185197461	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileb93Tjz"
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630185198533	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileb93Tjz\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.933.3.4000 and DLL(s) 8.15.10.2712,  reported.
+1630185204399	Marionette	INFO	Listening on port 63510
+1630185204593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Couldn't sanitize RENDERER device: Software Adapter
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.rs/maps/@44.7933455,20.5005552,12.76z line 1512 > injectedScript, line 9139: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1630185218286	Marionette	INFO	Stopped listening on port 63510
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: /maps/_/js/k=maps.m.sr.6tYvdOgBI-U.2019.O/ck=maps.m.EBH0S-bjqes.L.F4.O/m=vwr,vd,a,owc,ob,sp,en,smi,sc,vlg,log,smr,as,wrc/am=NzAI/rt=j/d=1/rs=ACT90oEBMR76zzflLRfdpkUA-bnDuaInmg/ed=1/exm=sc2,per,mo,lp,ti,ds,stx,bom,b, line 6880: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: /maps/_/js/k=maps.m.sr.6tYvdOgBI-U.2019.O/ck=maps.m.EBH0S-bjqes.L.F4.O/m=vwr,vd,a,owc,ob,sp,en,smi,sc,vlg,log,smr,as,wrc/am=NzAI/rt=j/d=1/rs=ACT90oEBMR76zzflLRfdpkUA-bnDuaInmg/ed=1/exm=sc2,per,mo,lp,ti,ds,stx,bom,b, line 6880: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: /maps/_/js/k=maps.m.sr.6tYvdOgBI-U.2019.O/ck=maps.m.EBH0S-bjqes.L.F4.O/m=vwr,vd,a,owc,ob,sp,en,smi,sc,vlg,log,smr,as,wrc/am=NzAI/rt=j/d=1/rs=ACT90oEBMR76zzflLRfdpkUA-bnDuaInmg/ed=1/exm=sc2,per,mo,lp,ti,ds,stx,bom,b, line 6880: NS_ERROR_NOT_INITIALIZED: 
